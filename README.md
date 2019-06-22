@@ -1,2 +1,2 @@
-# EGCEE_PROJET
-Espace de gestion des carrières des enseignants et d'échanges 
+Application de gestion des portfoli des enseignants de l'université de Yaoundé1
+ 
