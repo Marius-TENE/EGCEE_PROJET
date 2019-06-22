@@ -26,4 +26,5 @@
  11. Une fois le serveur démarré, ouvrir un navigateur puis saisir localhost:8080/connexion
  12. Commencer par se connecter en tant que admin en utilisant les informations suivantes :  Identifiant=admin  Mot de passe = admin
  13. Une fois connecté, pour  pouvoir accéder à l'espace enseignant, cliquez sur  Porfolio>Créer porfolio , puis remplissez le numéro de téléphone en utilisant le numéro vérifié précédemment pour pouvoir recevoir les sms. Sinon vous pouvez directement utiliser  les infomations suivantes pour vous connecter en tant qu'enseignant sans tre obligé de créer un nouveau portfolio: Identifiant=15y525   mot de passe=password (seul problème, vous ne recevrez pas de sms)
+ NB: par defaut lorsque l'admin crée un nouveau portfolio, l'identifiant de l'enseignant ainsi que son mot de passe de connexion sont son matricule.
  
