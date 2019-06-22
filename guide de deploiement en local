@@ -7,5 +7,8 @@
 
 ******************  Etapes de deploiement ******************
 
-1. Télecharger et installer java
-2. 
+1. Télecharger, installer et configurer java dans le PATH
+2. Télecharger et installer Spring Tool suite 4
+3. Télecharger et installer MySQL ou un autre SGBD
+4. Créer une nouvelle base de données nommée dbegcee
+4. Créer un nouvelle utilisateur nommé  <<projet430>>, 
